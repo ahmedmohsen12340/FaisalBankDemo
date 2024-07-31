@@ -1,0 +1,22 @@
+D:\Faisal Bank Project\C#Demo\Services\bin\Debug\net8.0\Services.deps.json
+D:\Faisal Bank Project\C#Demo\Services\bin\Debug\net8.0\Services.dll
+D:\Faisal Bank Project\C#Demo\Services\bin\Debug\net8.0\Services.pdb
+D:\Faisal Bank Project\C#Demo\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faisal Bank Project\C#Demo\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Faisal Bank Project\C#Demo\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Faisal Bank Project\C#Demo\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Faisal Bank Project\C#Demo\Services\obj\Debug\net8.0\Services.dll
+D:\Faisal Bank Project\C#Demo\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Faisal Bank Project\C#Demo\Services\obj\Debug\net8.0\Services.pdb
+D:\Faisal Bank Project\C#Demo\Services\obj\Debug\net8.0\ref\Services.dll
+D:\FaisalBankProject\C#Demo\Services\bin\Debug\net8.0\Services.deps.json
+D:\FaisalBankProject\C#Demo\Services\bin\Debug\net8.0\Services.dll
+D:\FaisalBankProject\C#Demo\Services\bin\Debug\net8.0\Services.pdb
+D:\FaisalBankProject\C#Demo\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\FaisalBankProject\C#Demo\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\FaisalBankProject\C#Demo\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\FaisalBankProject\C#Demo\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\FaisalBankProject\C#Demo\Services\obj\Debug\net8.0\Services.dll
+D:\FaisalBankProject\C#Demo\Services\obj\Debug\net8.0\refint\Services.dll
+D:\FaisalBankProject\C#Demo\Services\obj\Debug\net8.0\Services.pdb
+D:\FaisalBankProject\C#Demo\Services\obj\Debug\net8.0\ref\Services.dll

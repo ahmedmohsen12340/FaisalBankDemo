@@ -1,0 +1,36 @@
+D:\Faisal Bank Project\C#Demo\MyConsole\bin\Debug\net8.0\MyConsole.exe
+D:\Faisal Bank Project\C#Demo\MyConsole\bin\Debug\net8.0\MyConsole.deps.json
+D:\Faisal Bank Project\C#Demo\MyConsole\bin\Debug\net8.0\MyConsole.runtimeconfig.json
+D:\Faisal Bank Project\C#Demo\MyConsole\bin\Debug\net8.0\MyConsole.dll
+D:\Faisal Bank Project\C#Demo\MyConsole\bin\Debug\net8.0\MyConsole.pdb
+D:\Faisal Bank Project\C#Demo\MyConsole\bin\Debug\net8.0\Services.dll
+D:\Faisal Bank Project\C#Demo\MyConsole\bin\Debug\net8.0\Services.pdb
+D:\Faisal Bank Project\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.csproj.AssemblyReference.cache
+D:\Faisal Bank Project\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faisal Bank Project\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.AssemblyInfoInputs.cache
+D:\Faisal Bank Project\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.AssemblyInfo.cs
+D:\Faisal Bank Project\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.csproj.CoreCompileInputs.cache
+D:\Faisal Bank Project\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.csproj.Up2Date
+D:\Faisal Bank Project\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.dll
+D:\Faisal Bank Project\C#Demo\MyConsole\obj\Debug\net8.0\refint\MyConsole.dll
+D:\Faisal Bank Project\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.pdb
+D:\Faisal Bank Project\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.genruntimeconfig.cache
+D:\Faisal Bank Project\C#Demo\MyConsole\obj\Debug\net8.0\ref\MyConsole.dll
+D:\FaisalBankProject\C#Demo\MyConsole\bin\Debug\net8.0\MyConsole.exe
+D:\FaisalBankProject\C#Demo\MyConsole\bin\Debug\net8.0\MyConsole.deps.json
+D:\FaisalBankProject\C#Demo\MyConsole\bin\Debug\net8.0\MyConsole.runtimeconfig.json
+D:\FaisalBankProject\C#Demo\MyConsole\bin\Debug\net8.0\MyConsole.dll
+D:\FaisalBankProject\C#Demo\MyConsole\bin\Debug\net8.0\MyConsole.pdb
+D:\FaisalBankProject\C#Demo\MyConsole\bin\Debug\net8.0\Services.dll
+D:\FaisalBankProject\C#Demo\MyConsole\bin\Debug\net8.0\Services.pdb
+D:\FaisalBankProject\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.csproj.AssemblyReference.cache
+D:\FaisalBankProject\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\FaisalBankProject\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.AssemblyInfoInputs.cache
+D:\FaisalBankProject\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.AssemblyInfo.cs
+D:\FaisalBankProject\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.csproj.CoreCompileInputs.cache
+D:\FaisalBankProject\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.csproj.Up2Date
+D:\FaisalBankProject\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.dll
+D:\FaisalBankProject\C#Demo\MyConsole\obj\Debug\net8.0\refint\MyConsole.dll
+D:\FaisalBankProject\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.pdb
+D:\FaisalBankProject\C#Demo\MyConsole\obj\Debug\net8.0\MyConsole.genruntimeconfig.cache
+D:\FaisalBankProject\C#Demo\MyConsole\obj\Debug\net8.0\ref\MyConsole.dll
