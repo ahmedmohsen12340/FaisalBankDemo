@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.SignalR.Client;
 
@@ -8,6 +8,7 @@ namespace SignalRClient
     {
         static async Task Main(string[] args)
         {
+
             var connection = new HubConnectionBuilder()
                 .WithUrl("http://localhost:5257/TriggerHub")
                 .Build();
@@ -27,11 +28,32 @@ namespace SignalRClient
                 Console.WriteLine($"Error connecting to the server: {ex.Message}");
                 return;
             }
+            await connection.InvokeAsync("Register", "user1");
 
-            Console.WriteLine("Press any key to exit...");
-            Console.ReadKey();
 
-            await connection.StopAsync();
+            // Check the connection state periodically
+            while (true)
+            {
+                if (connection.State == HubConnectionState.Disconnected)
+                {
+                    Console.WriteLine("Connection Lost");
+                    try
+                    {
+                        await connection.StartAsync();
+                        Console.WriteLine("Connected to the server.");
+                        await connection.InvokeAsync("Register", "user1");
+
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"Error connecting to the server: {ex.Message}");
+                        continue;
+                    }
+
+                }
+
+                await Task.Delay(5000); // Check every 5 seconds
+            }
         }
     }
 }

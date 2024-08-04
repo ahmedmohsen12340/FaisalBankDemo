@@ -3,14 +3,16 @@ using SignalRProj.Hubs;
 
 public class FileWatcherService
 {
-    private readonly string path = @"D:\FaisalBankProject\SIgnalRDemo\Data\QueuingInfo.xml";
+    private readonly string path = @"D:\FaisalBank\FaisalBankProject\SIgnalRDemo\Data\QueuingInfo.xml";
     private readonly IHubContext<TriggerHub> _hubContext;
     private readonly FileSystemWatcher _fileWatcher;
     private readonly Timer _debounceTimer;
     private string _lastChangePath;
+    private readonly IConfiguration _config;
 
-    public FileWatcherService(IHubContext<TriggerHub> hubContext)
+    public FileWatcherService(IHubContext<TriggerHub> hubContext, IConfiguration configuration)
     {
+        _config = configuration;
         _hubContext = hubContext;
 
         _fileWatcher = new FileSystemWatcher()
@@ -44,7 +46,8 @@ public class FileWatcherService
 
     private async void DebounceCallback(object state)
     {
-        await File.AppendAllTextAsync(@"D:\FaisalBankProject\SIgnalRDemo\Data\Change.txt", Environment.NewLine + $"File changed: {_lastChangePath}");
-        await _hubContext.Clients.All.SendAsync("ReceiveMessage", $"File changed: {_lastChangePath}");
+        await File.AppendAllTextAsync(@"D:\FaisalBank\FaisalBankProject\SIgnalRDemo\Data\Change.txt", Environment.NewLine + $"File changed: {_lastChangePath}");
+        // await _hubContext.Clients.All.SendAsync("ReceiveMessage", $"File changed: {_lastChangePath}");
+        await _hubContext.Clients.Client(_config["user1"]).SendAsync("ReceiveMessage", $"File changed: {_lastChangePath}");
     }
 }

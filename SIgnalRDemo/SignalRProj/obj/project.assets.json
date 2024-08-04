@@ -2043,11 +2043,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\FaisalBankProject\\SIgnalRDemo\\SignalRProj\\SignalRProj.csproj",
+      "projectUniqueName": "D:\\FaisalBank\\FaisalBankProject\\SIgnalRDemo\\SignalRProj\\SignalRProj.csproj",
       "projectName": "SignalRProj",
-      "projectPath": "d:\\FaisalBankProject\\SIgnalRDemo\\SignalRProj\\SignalRProj.csproj",
+      "projectPath": "D:\\FaisalBank\\FaisalBankProject\\SIgnalRDemo\\SignalRProj\\SignalRProj.csproj",
       "packagesPath": "C:\\Users\\ahmad_hafez\\.nuget\\packages\\",
-      "outputPath": "d:\\FaisalBankProject\\SIgnalRDemo\\SignalRProj\\obj\\",
+      "outputPath": "D:\\FaisalBank\\FaisalBankProject\\SIgnalRDemo\\SignalRProj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmad_hafez\\AppData\\Roaming\\NuGet\\NuGet.Config"

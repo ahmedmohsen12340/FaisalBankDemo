@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FaisalBankProject\\SIgnalRDemo\\Client\\Client.csproj": {}
+    "D:\\FaisalBank\\FaisalBankProject\\SIgnalRDemo\\Client\\Client.csproj": {}
   },
   "projects": {
-    "D:\\FaisalBankProject\\SIgnalRDemo\\Client\\Client.csproj": {
+    "D:\\FaisalBank\\FaisalBankProject\\SIgnalRDemo\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FaisalBankProject\\SIgnalRDemo\\Client\\Client.csproj",
+        "projectUniqueName": "D:\\FaisalBank\\FaisalBankProject\\SIgnalRDemo\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "D:\\FaisalBankProject\\SIgnalRDemo\\Client\\Client.csproj",
+        "projectPath": "D:\\FaisalBank\\FaisalBankProject\\SIgnalRDemo\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\ahmad_hafez\\.nuget\\packages\\",
-        "outputPath": "D:\\FaisalBankProject\\SIgnalRDemo\\Client\\obj\\",
+        "outputPath": "D:\\FaisalBank\\FaisalBankProject\\SIgnalRDemo\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmad_hafez\\AppData\\Roaming\\NuGet\\NuGet.Config"
